@@ -1,0 +1,12 @@
+{
+  "name": "signiling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "lib0": "^0.2.88",
+    "ws": "^8.14.2"
+  }
+}
